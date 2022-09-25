@@ -27,7 +27,7 @@ I made the well-known game: Rock, Paper, Scissors by using the JavaScript progra
 | Website | Link | 
 | ------------- | ------------- | 
 | CodePen demo | https://codepen.io/juliancrt/pen/dyeVEVR | 
-
+| GitHub preview | https://juliancrt.github.io/rock-paper-scissors/ |
 
 
 ## Summary
