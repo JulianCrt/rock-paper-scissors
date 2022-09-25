@@ -1,4 +1,4 @@
-#The Odin Project: Rock, Paper, Scissors
+# The Odin Project: Rock, Paper, Scissors
 
 ## Instructions
 
@@ -8,8 +8,7 @@ The Odin Project (Foundations): https://www.theodinproject.com/paths/foundations
 To create and display on an UI using DOM Manipulation Methods the well-known game 'Rock, Paper, Scissors.
 
 ## Preview:
-Work in progress... 
-Need to implement CSS.
+![Rock, Paper, Scissors](https://github.com/JulianCrt/rock-paper-scissors/blob/main/imgs/Rock-Paper-Scissors-TOP.png)
 
 ### Software: 
 * JavaScript
@@ -21,7 +20,7 @@ Need to implement CSS.
 * GitHub
 * StackOverFlow
 
-### Result :green_check_mark:
+### Result :heavy_check_mark:
 I made the well-known game: Rock, Paper, Scissors by using the JavaScript program. The game takes the player input by clicking one of the three options and then gives a randomised computer result and checks who is the winner of the round. Also, whoever gets the score of 5 first, the program nominates him as the winner. 
 
 
@@ -44,3 +43,4 @@ b1. Test your functions everytime before moving on so you will make sure it work
 c. Registering HTML buttons to JavaScript Functions. It was the hardest problem I had to overcome during this project (I did it!!).
 
 d. Creating elements in JavaScript and appending them to the HTML. 
+
