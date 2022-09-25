@@ -13,7 +13,7 @@ To create and display on an UI using DOM Manipulation Methods the well-known gam
 ### Software: 
 * JavaScript
 * HTML
-* CSS (to be implemented)
+* CSS 
 
 
 ### Tools
